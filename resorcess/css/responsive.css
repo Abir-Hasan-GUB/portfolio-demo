@@ -1,0 +1,41 @@
+@media screen and (max-width: 320px){
+.hero-section {
+    padding: 30px 0;
+}
+    h2 {
+    font-size: 30px !important;
+    margin-bottom: 0 !important;
+        word-spacing: 1px !important;
+}
+    .hero-text {
+    padding: 42px 35px !important;
+}
+    .hero-text p {
+    width: 100% !important;
+    margin: auto;
+        padding: 20px 0;
+    font-weight: 300;
+}
+    #hero-section {
+        height: 39vh !important;
+    }
+    
+    .about-text-1 p {
+    font-size: 14px !important;
+    width: 97% !important;
+}
+    .ab-details {
+    display: block !important;
+    width: 100% !important;
+        padding: 15px 0;
+}
+    .work-menu ul{
+       visibility: hidden;
+    }
+    .grid1{
+    margin-top: -30px !important;
+    display: grid !important;
+    grid-template-columns: auto !important;
+    grid-row-gap: 30px !important;
+}
+}
